@@ -99,11 +99,11 @@ document.addEventListener('DOMContentLoaded', function() {
       }
       
       if (currentScrollPos > 100) {
-          navbar.style.backgroundColor = '#fff';
+          navbar.style.backgroundColor = '#121212';
           navbar.style.boxShadow = '0 4px 12px rgba(0, 0, 0, 0.1)';
           navbar.style.padding = '10px 0';
       } else {
-          navbar.style.backgroundColor = '#fff';
+          navbar.style.backgroundColor = '#121212';
           navbar.style.boxShadow = 'none';
           navbar.style.padding = '15px 0';
       }
